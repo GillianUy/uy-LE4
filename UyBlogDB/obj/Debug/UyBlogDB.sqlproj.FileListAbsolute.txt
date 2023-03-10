@@ -1,0 +1,10 @@
+C:\Users\Gillian Isabelle Uy\source\repos\UyLE2\UyBlogDB\bin\Debug\UyBlogDB.dacpac
+C:\Users\Gillian Isabelle Uy\source\repos\UyLE2\UyBlogDB\bin\Debug\UyBlogDB.dll
+C:\Users\Gillian Isabelle Uy\source\repos\UyLE2\UyBlogDB\bin\Debug\UyBlogDB.pdb
+C:\Users\Gillian Isabelle Uy\source\repos\UyLE2\UyBlogDB\obj\Debug\UyBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\Gillian Isabelle Uy\source\repos\UyLE2\UyBlogDB\obj\Debug\UyBlogDB.dll
+C:\Users\Gillian Isabelle Uy\source\repos\UyLE2\UyBlogDB\obj\Debug\UyBlogDB.pdb
+C:\Users\Gillian Isabelle Uy\source\repos\UyLE2\UyBlogDB\obj\Debug\Model.xml
+C:\Users\Gillian Isabelle Uy\source\repos\UyLE2\UyBlogDB\obj\Debug\refactor.xml
+C:\Users\Gillian Isabelle Uy\source\repos\UyLE2\UyBlogDB\obj\Debug\postdeploy.sql
+C:\Users\Gillian Isabelle Uy\source\repos\UyLE2\UyBlogDB\obj\Debug\predeploy.sql
